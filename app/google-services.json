@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "175001634418",
+    "firebase_url": "https://shreebeautystudio-e0c42-default-rtdb.firebaseio.com",
+    "project_id": "shreebeautystudio-e0c42",
+    "storage_bucket": "shreebeautystudio-e0c42.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175001634418:android:4e672b09a8ee9918e364eb",
+        "android_client_info": {
+          "package_name": "com.example.shreebeautystudio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoAPf0PZU3yGdYnWYiAzK_bA0XXw7gMr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
